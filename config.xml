@@ -4,11 +4,11 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.bluslate.bluslatemobile"
         versionCode = "20180"
-        version   = "3.3.0">
-    <name>Easy Study</name>
+        version   = "1.0.0">
+    <name>E-Learning</name>
 
     <description>
-        Easy Study official app
+        E-Learning official app
     </description>
 
     <author href="http://cbc.com" email="bluslate@cbc.com">
