@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.bluslate.bluslatemobile"
         versionCode = "20180"
-        version   = "1.0.0">
+        version   = "3.3.0">
     <name>E-Learning</name>
 
     <description>
